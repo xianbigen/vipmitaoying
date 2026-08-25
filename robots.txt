@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xianbigen.github.io/vipmitaoying/sitemap.xml
